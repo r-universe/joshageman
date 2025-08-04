@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "cmAnalysis"]
 	path = cmAnalysis
-	url = https://github.com/cran/cmAnalysis
+	url = https://github.com/joshageman/cmanalysis
