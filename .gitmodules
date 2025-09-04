@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SIMPLICA"]
+	path = SIMPLICA
+	url = https://github.com/joshageman/simplica
 [submodule "cmAnalysis"]
 	path = cmAnalysis
 	url = https://github.com/joshageman/cmanalysis
