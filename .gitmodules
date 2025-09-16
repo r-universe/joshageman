@@ -8,3 +8,6 @@
 [submodule "cmAnalysis"]
 	path = cmAnalysis
 	url = https://github.com/joshageman/cmanalysis
+[submodule "twomodeclusteringGA"]
+	path = twomodeclusteringGA
+	url = https://github.com/joshageman/twomodeclusteringga
