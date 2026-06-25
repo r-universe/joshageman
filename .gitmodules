@@ -8,6 +8,9 @@
 [submodule "cmAnalysis"]
 	path = cmAnalysis
 	url = https://github.com/joshageman/cmanalysis
+[submodule "gaQSAR"]
+	path = gaQSAR
+	url = https://github.com/joshageman/gaqsar
 [submodule "twomodeclusteringGA"]
 	path = twomodeclusteringGA
 	url = https://github.com/joshageman/twomodeclusteringga
